@@ -6,6 +6,7 @@ This file contains concise execution guidance for each distance: pacing principl
 - Focus: controlled aggression — fast from the gun, maintain tempo-like tolerance for the middle, finish maximal.
 - Pacing principles: start controlled to avoid early lactate spike; settle into planned target effort by km 1 and hold or negative-split.
 - Warmup checklist: 10–15 min easy jog, 3–4 strides, 2 short accelerations, mobility and dynamic drills.
+- See full 8-week schedule: [Boston 5K Training Plan](boston-5k-training.md)
 
 10K execution plan
 - Focus: sustainable high-intensity — maintain threshold to slightly-above-threshold for middle 60–70% of race.
