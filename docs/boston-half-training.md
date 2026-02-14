@@ -30,19 +30,30 @@ This 12-week plan follows a structured approach optimized for half marathon prep
 - Rotate `Trainer v3` and `More v5` across easy and steady days to distribute mechanical load and control fatigue.
 - Manually track cumulative shoe mileage in the `docs/tracking.md` shoe rotation log; retire shoes when cumulative miles reach your chosen threshold.
 
+## Pacing Targets (28:00 5K Goal)
+Based on a 28-minute 5K goal, use these target pace ranges for your workouts:
+
+| Type | Target Pace (min/mile) | Description |
+| :--- | :--- | :--- |
+| **Easy Runs** | **11:45 – 12:35** | Conversational, recovery effort. |
+| **Aerobic / Moderate** | **11:20 – 11:45** | Steady effort, slightly faster than easy. |
+| **Half Marathon (HM) Pace**| **10:00 – 10:25** | Comfortably hard, sustainable tempo. |
+| **10K Pace** | **9:30 – 9:50** | Threshold effort, challenging but controlled. |
+| **5K Pace** | **9:10 – 9:20** | High intensity, VO2 max effort. |
+
 ## Training Schedule
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1**<br>*(Prep)* | OFF | 2-3 MILES | OFF | 2-3 MILES | OFF | 2-3 MILES | LONG RUN: 5 MILES |
-| **2**<br>*(Prep)* | OFF | 3-4 MILES | OFF | 3-4 MILES | OFF | 3-4 MILES | LONG RUN: 5-6 MILES |
-| **3**<br>*(Main)* | OFF | 4 MILES | OFF | 5 MILES, 3-4 MINUTES REST, THEN 4 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 3-4 MILES | LONG RUN: 6-7 MILES ON ROLLING HILL COURSE |
-| **4**<br>*(Main)* | OFF | 5 MILES, 3-4 MINUTES REST, THEN 4 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 5 MILES, 3-4 MINUTES REST, THEN 3 X 45 SECONDS HARD WITH 60 SECONDS REST | OFF | HALF MARATHON SIMULATION: 2 MILES EASY, 3 MILES AT GOAL PACE, 2 MILES EASY | 3 MILES |
-| **5**<br>*(Main)* | OFF | 4-5 MILES, 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 5-6 MILES, 3-4 MINUTES REST, THEN 4 X 45 SECONDS HARD WITH 60 SECONDS REST | OFF | 4 MILES | LONG RUN: 7-8 MILES ON ROLLING HILL COURSE |
-| **6**<br>*(Main)* | OFF | 4-5 MILES, 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 5-6 MILES, 3-4 MINUTES REST, THEN 3 X 60 SECONDS HARD WITH 90 SECONDS REST | OFF | HALF MARATHON SIMULATION: 2-3 MILES EASY, 3 MILES AT GOAL PACE, 2 MILES EASY | 3-4 MILES |
-| **7**<br>*(Main)* | OFF | 4-5 MILES, 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 5-6 MILES, 3-4 MINUTES REST, THEN 4 X 45 SECONDS HARD WITH 60 SECONDS REST | OFF | 4-5 MILES | LONG RUN: 8-9 MILES STEADY EFFORT |
-| **8**<br>*(Main)* | OFF | 4-5 MILES, 3-4 MINUTES REST, THEN 4 X 60 SECONDS HARD WITH 90 SECONDS REST | OFF | 5-6 MILES | OFF | HALF MARATHON SIMULATION: 2-3 MILES EASY, 4 MILES AT GOAL PACE, 2 MILES EASY ON ROLLING HILLS COURSE | 3-4 MILES |
-| **9**<br>*(Main)* | OFF | 5-6 MILES, 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 5-6 MILES, 3-4 MINUTES REST, THEN 4 X 50 SECONDS HARD WITH 75 SECONDS REST | OFF | 4 MILES | LONG RUN: 9-10 MILES STEADY EFFORT |
-| **10**<br>*(Main)* | OFF | 5-6 MILES, 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 5-6 MILES | OFF | HALF MARATHON SIMULATION: 4 MILES EASY, 4 MILES AT GOAL PACE, 2 MILES EASY ON ROLLING HILLS COURSE | 3-4 MILES |
-| **11**<br>*(Main)* | OFF | 4 MILES, 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS HARD WITH 60 SECONDS REST | OFF | 4 MILES, 3-4 MINUTES REST, THEN 4 X 45 SECONDS HARD WITH 60 SECONDS REST | OFF | 3 MILES | LONG RUN: 6 MILES EASY ON FLAT COURSE |
-| **12**<br>*(Taper)* | OFF | 4 MILES | OFF | 3 MILES | OFF | PRE-RACE: 2 MILES (EASY EFFORT) | RACE DAY |
+| **1**<br>*(Prep)* | OFF | 2-3 Miles **Easy** (11:45–12:35/mi) | OFF | 2-3 Miles **Easy** (11:45–12:35/mi) | OFF | 2-3 Miles **Easy** (11:45–12:35/mi) | LONG RUN: 5 Miles **Easy** (11:45–12:35/mi) |
+| **2**<br>*(Prep)* | OFF | 3-4 Miles **Easy** (11:45–12:35/mi) | OFF | 3-4 Miles **Easy** (11:45–12:35/mi) | OFF | 3-4 Miles **Easy** (11:45–12:35/mi) | LONG RUN: 5-6 Miles **Easy** (11:45–12:35/mi) |
+| **3**<br>*(Main)* | OFF | 4 Miles **Easy** (11:45–12:35/mi) | OFF | 5 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 3-4 Miles **Easy** (11:45–12:35/mi) | LONG RUN: 6-7 Miles **Easy** (11:45–12:35/mi) ON ROLLING HILL COURSE |
+| **4**<br>*(Main)* | OFF | 5 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 5 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 3 X 45 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | HALF MARATHON SIMULATION: 2 Miles **Easy** (11:45–12:35/mi), 3 Miles AT **HM Pace** (10:00–10:25/mi), 2 Miles **Easy** (11:45–12:35/mi) | 3 Miles **Easy** (11:45–12:35/mi) |
+| **5**<br>*(Main)* | OFF | 4-5 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 5-6 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4 X 45 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 4 Miles **Easy** (11:45–12:35/mi) | LONG RUN: 7-8 Miles **Easy** (11:45–12:35/mi) ON ROLLING HILL COURSE |
+| **6**<br>*(Main)* | OFF | 4-5 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 5-6 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 3 X 60 SECONDS **5K Pace** (9:10–9:20/mi) WITH 90 SECONDS REST | OFF | HALF MARATHON SIMULATION: 2-3 Miles **Easy** (11:45–12:35/mi), 3 Miles AT **HM Pace** (10:00–10:25/mi), 2 Miles **Easy** (11:45–12:35/mi) | 3-4 Miles **Easy** (11:45–12:35/mi) |
+| **7**<br>*(Main)* | OFF | 4-5 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 5-6 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4 X 45 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 4-5 Miles **Easy** (11:45–12:35/mi) | LONG RUN: 8-9 Miles **Easy** (11:45–12:35/mi) STEADY EFFORT |
+| **8**<br>*(Main)* | OFF | 4-5 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4 X 60 SECONDS **5K Pace** (9:10–9:20/mi) WITH 90 SECONDS REST | OFF | 5-6 Miles **Easy** (11:45–12:35/mi) | OFF | HALF MARATHON SIMULATION: 2-3 Miles **Easy** (11:45–12:35/mi), 4 Miles AT **HM Pace** (10:00–10:25/mi), 2 Miles **Easy** (11:45–12:35/mi) ON ROLLING HILLS COURSE | 3-4 Miles **Easy** (11:45–12:35/mi) |
+| **9**<br>*(Main)* | OFF | 5-6 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 5-6 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4 X 50 SECONDS **5K Pace** (9:10–9:20/mi) WITH 75 SECONDS REST | OFF | 4 Miles **Easy** (11:45–12:35/mi) | LONG RUN: 9-10 Miles **Easy** (11:45–12:35/mi) STEADY EFFORT |
+| **10**<br>*(Main)* | OFF | 5-6 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 5-6 Miles **Easy** (11:45–12:35/mi) | OFF | HALF MARATHON SIMULATION: 4 Miles **Easy** (11:45–12:35/mi), 4 Miles AT **HM Pace** (10:00–10:25/mi), 2 Miles **Easy** (11:45–12:35/mi) ON ROLLING HILLS COURSE | 3-4 Miles **Easy** (11:45–12:35/mi) |
+| **11**<br>*(Main)* | OFF | 4 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4-5 X 30 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 4 Miles **Easy** (11:45–12:35/mi), 3-4 MINUTES REST, THEN 4 X 45 SECONDS **5K Pace** (9:10–9:20/mi) WITH 60 SECONDS REST | OFF | 3 Miles **Easy** (11:45–12:35/mi) | LONG RUN: 6 Miles **Easy** (11:45–12:35/mi) ON FLAT COURSE |
+| **12**<br>*(Taper)* | OFF | 4 Miles **Easy** (11:45–12:35/mi) | OFF | 3 Miles **Easy** (11:45–12:35/mi) | OFF | PRE-RACE: 2 Miles **Easy** (11:45–12:35/mi) EFFORT | RACE DAY |

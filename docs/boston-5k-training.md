@@ -32,15 +32,26 @@
 - Rotate `Trainer v3` and `More v5` across easy and steady days to distribute mechanical load and control fatigue.
 - Manually track cumulative shoe mileage in the `docs/tracking.md` shoe rotation log; retire shoes when cumulative miles reach your chosen threshold.
 
+## Pacing Targets (28:00 5K Goal)
+Based on a 28-minute 5K goal, use these target pace ranges for your workouts:
+
+| Type | Target Pace (min/mile) | Description |
+| :--- | :--- | :--- |
+| **Easy Runs** | **11:45 – 12:35** | Conversational, recovery effort. |
+| **Aerobic / Moderate** | **11:20 – 11:45** | Steady effort, slightly faster than easy. |
+| **Half Marathon (HM) Pace**| **10:00 – 10:25** | Comfortably hard, sustainable tempo. |
+| **10K Pace** | **9:30 – 9:50** | Threshold effort, challenging but controlled. |
+| **5K Pace** | **9:10 – 9:20** | High intensity, VO2 max effort. |
+
 ## Training Schedule
 
 | Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **1**<br>*(Prep)* | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | 30 Minutes Easy Long Run |
-| **2**<br>*(Prep)* | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | 30-35 Minutes Easy Long Run |
-| **3**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run | 35-40 Minutes Easy Long Run |
-| **4**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run | 40 Minutes Easy Long Run |
-| **5**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run | 40 Minutes Easy Long Run |
-| **6**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run | 30-35 Minutes Easy Long Run |
-| **7**<br>*(Main)* | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Off Day |
-| **8**<br>*(Taper)* | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | Off Day | Off Day | RACE DAY | - |
+| **1**<br>*(Prep)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10 Minutes Easy, 10 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10 Minutes Easy, 10 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10 Minutes Easy, 10 Minutes **Moderate** (11:20–11:45/mi) Run | 30 Minutes **Long Run** (11:45–12:35/mi) |
+| **2**<br>*(Prep)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | 30-35 Minutes **Long Run** (11:45–12:35/mi) |
+| **3**<br>*(Main)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | 35-40 Minutes **Long Run** (11:45–12:35/mi) |
+| **4**<br>*(Main)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes **Moderate** (11:20–11:45/mi) Run | 40 Minutes **Long Run** (11:45–12:35/mi) |
+| **5**<br>*(Main)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes **Moderate** (11:20–11:45/mi) Run | 40 Minutes **Long Run** (11:45–12:35/mi) |
+| **6**<br>*(Main)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes **Moderate** (11:20–11:45/mi) Run | 30-35 Minutes **Long Run** (11:45–12:35/mi) |
+| **7**<br>*(Main)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes **Moderate** (11:20–11:45/mi) Run | Off Day |
+| **8**<br>*(Taper)* | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | 10 Minutes Easy, 10 Minutes **Moderate** (11:20–11:45/mi) Run | **Easy Run** (11:45–12:35/mi), Cross Training or Off Day | Off Day | Off Day | RACE DAY | - |
