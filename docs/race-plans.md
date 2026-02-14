@@ -17,3 +17,5 @@ Half marathon execution plan
 - Pacing principles: start slightly conservative (~5–10% easier than target effort), take measured surges only after fueling and at checkpoints.
 - Warmup checklist: 10–15 min easy, dynamic mobility, 2–3 strides; keep warm pre-race but avoid excessive fatigue.
 - Fueling guidance: test fueling in long runs. Typical plan: 30–60g carbs per hour after first 45–60 minutes; use easily tolerated intake (gels, chews, drink). Practice bottle/grab strategy on long runs.
+
+See full 12-week schedule: [Boston Half Marathon Training Plan](boston-half-training.md).
