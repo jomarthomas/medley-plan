@@ -34,110 +34,17 @@
 
 ## Training Schedule
 
-### Week 1 (2-Week Prep Phase)
-*   Monday: 20 Minutes Easy Run
-*   Tuesday: 20 Minutes Easy Run or 30 Minutes Cross Training
-*   Wednesday: Rest Day
-*   Thursday: 25 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 10-15 Minutes Steady Tempo Pace, 10 Minutes Easy
-*   Sunday: 25 Minutes Easy Run
-
-### Week 2 (2-Week Prep Phase)
-*   Monday: Rest Day
-*   Tuesday: 25 Minutes Easy Run
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 25-30 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 2 X 10 Minutes at Steady Tempo Pace with 3 Minutes Rest, 10 Minutes Warm Down Jog
-*   Sunday: 30 Minutes Easy Run
-
-### Week 3 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up Jog, 6 X 2 Minutes at 10K Pace with 2 Minutes Rest, 12-15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30-35 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 2 X 10-12 Minutes at Half Marathon Pace with 3 Minutes Rest, 10 Minutes Warm Down Jog
-*   Sunday: 30-35 Minutes Easy Run
-
-### Week 4 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up Jog, 6 X 2 1/2 Minutes at 10K Pace with 2-3 Minutes Rest, 12-15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30-35 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 2 X 10-12 Minutes at Half Marathon Pace with 3 Minutes Rest, 10 Minutes Warm Down Jog
-*   Sunday: 30-35 Minutes Easy Run
-
-### Week 5 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 12-15 Minutes Warm Up Jog, 6 X 3 Minutes at 10K Pace with 2 Minutes Recovery Jog, 12-15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30-40 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 20 Minutes at Half Marathon Pace, 10 Minutes Warm Down Jog
-*   Sunday: 35-40 Minutes Easy Run
-
-### Week 6 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up Jog, 5-6 X 3 Minutes at 10K Pace with 2 Minutes Rest Plus 5-6 X 1 Minute at 5K Pace with 1 Minute Rest, 12-15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30-40 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 20-25 Minutes at Half Marathon Pace, 10-15 Minutes Warm Down Jog
-*   Sunday: 35-40 Minutes Easy Run
-
-### Week 7 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up Jog, 10 Minutes at Half Marathon Pace, 3 Mins Rest, 8-10 X 90 Seconds at 5K Pace with 90 Seconds Rest, 12-15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30-40 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Easy, 5 X 6 Mins at 10K Pace with 3 Mins Rest, 15 Minutes Warm Down Jog
-*   Sunday: 35-40 Minutes Easy Run
-
-### Week 8 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 12-15 Minutes Warm Up Jog, 4-5 X 3 Minutes at 10K Pace with 2 Minutes Rest, 4-5 X 2 Minutes at 5K Pace with 2 Minutes Rest, 15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30-40 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 25 Minutes at Half Marathon Pace, 10-15 Minutes Warm Down Jog
-*   Sunday: 40-45 Minutes Easy Run
-
-### Week 9 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up Jog, 3 Minutes at 10K Pace with 2 Minutes Rest Plus 3 X 1 Minute at 5K Pace with 1 Minute Rest X 3-4 Sets (3 Mins Between Sets), 15 Minute Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30-40 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up Jog, 3 X 10 Minutes at Half Marathon to 10K Pace with 3 Minutes Rest, 10 Minutes Easy
-*   Sunday: 40-45 Minutes Easy Run
-
-### Week 10 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up Jog, 6-8 X 3 Minutes at 10K Pace with 2 Minutes Rest, 15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Easy, 15 Minutes at Half Marathon Pace, 3 Minutes Rest, 10 Minutes at Half Marathon-10K Pace with 3 Minutes Rest, 10 Minutes Easy
-*   Sunday: 40-45 Minutes Easy Run
-
-### Week 11 (9-Week Main Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up, 8 X 3 Minutes at 10K Pace with 2 Minutes Rest, 15 Minutes Warm Down Jog
-*   Wednesday: 30-40 Minutes Easy Cross Training
-*   Thursday: 30 Minutes Easy Run
-*   Friday: Rest Day
-*   Saturday: 15 Minutes Warm Up, 2 X 12 Minutes at Half Marthon Pace with 3-5 Minutes Rest, 15 Minutes Warm Down Jog
-*   Sunday: 30 Minutes Easy Run
-
-### Week 12 (1-Week Taper Phase)
-*   Monday: Rest Day
-*   Tuesday: 15 Minutes Warm Up Jog, 8 X 1 Minutes at 5K Pace with 1-Minute Recovery Jog, 10 Minutes Warm Down Jog
-*   Wednesday: 25-30 Minutes Easy
-*   Thursday: Rest Day
-*   Friday: 20-25 Minutes Easy
-*   Saturday: 15-20 Minutes Easy
-*   Sunday: RACE DAY! GOOD LUCK FROM ALL AT THE B.A.A.!
+| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1**<br>*(Prep)* | 20 Minutes Easy Run | 20 Minutes Easy Run or 30 Minutes Cross Training | Rest Day | 25 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 10-15 Minutes Steady Tempo Pace, 10 Minutes Easy | 25 Minutes Easy Run |
+| **2**<br>*(Prep)* | Rest Day | 25 Minutes Easy Run | 30-40 Minutes Easy Cross Training | 25-30 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 2 X 10 Minutes at Steady Tempo Pace with 3 Minutes Rest, 10 Minutes Warm Down Jog | 30 Minutes Easy Run |
+| **3**<br>*(Main)* | Rest Day | 15 Minutes Warm Up Jog, 6 X 2 Minutes at 10K Pace with 2 Minutes Rest, 12-15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30-35 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 2 X 10-12 Minutes at Half Marathon Pace with 3 Minutes Rest, 10 Minutes Warm Down Jog | 30-35 Minutes Easy Run |
+| **4**<br>*(Main)* | Rest Day | 15 Minutes Warm Up Jog, 6 X 2 1/2 Minutes at 10K Pace with 2-3 Minutes Rest, 12-15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30-35 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 2 X 10-12 Minutes at Half Marathon Pace with 3 Minutes Rest, 10 Minutes Warm Down Jog | 30-35 Minutes Easy Run |
+| **5**<br>*(Main)* | Rest Day | 12-15 Minutes Warm Up Jog, 6 X 3 Minutes at 10K Pace with 2 Minutes Recovery Jog, 12-15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30-40 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 20 Minutes at Half Marathon Pace, 10 Minutes Warm Down Jog | 35-40 Minutes Easy Run |
+| **6**<br>*(Main)* | Rest Day | 15 Minutes Warm Up Jog, 5-6 X 3 Minutes at 10K Pace with 2 Minutes Rest Plus 5-6 X 1 Minute at 5K Pace with 1 Minute Rest, 12-15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30-40 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 20-25 Minutes at Half Marathon Pace, 10-15 Minutes Warm Down Jog | 35-40 Minutes Easy Run |
+| **7**<br>*(Main)* | Rest Day | 15 Minutes Warm Up Jog, 10 Minutes at Half Marathon Pace, 3 Mins Rest, 8-10 X 90 Seconds at 5K Pace with 90 Seconds Rest, 12-15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30-40 Minutes Easy Run | Rest Day | 15 Minutes Easy, 5 X 6 Mins at 10K Pace with 3 Mins Rest, 15 Minutes Warm Down Jog | 35-40 Minutes Easy Run |
+| **8**<br>*(Main)* | Rest Day | 12-15 Minutes Warm Up Jog, 4-5 X 3 Minutes at 10K Pace with 2 Minutes Rest, 4-5 X 2 Minutes at 5K Pace with 2 Minutes Rest, 15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30-40 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 25 Minutes at Half Marathon Pace, 10-15 Minutes Warm Down Jog | 40-45 Minutes Easy Run |
+| **9**<br>*(Main)* | Rest Day | 15 Minutes Warm Up Jog, 3 Minutes at 10K Pace with 2 Minutes Rest Plus 3 X 1 Minute at 5K Pace with 1 Minute Rest X 3-4 Sets (3 Mins Between Sets), 15 Minute Warm Down Jog | 30-40 Minutes Easy Cross Training | 30-40 Minutes Easy Run | Rest Day | 15 Minutes Warm Up Jog, 3 X 10 Minutes at Half Marathon to 10K Pace with 3 Minutes Rest, 10 Minutes Easy | 40-45 Minutes Easy Run |
+| **10**<br>*(Main)* | Rest Day | 15 Minutes Warm Up Jog, 6-8 X 3 Minutes at 10K Pace with 2 Minutes Rest, 15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30 Minutes Easy Run | Rest Day | 15 Minutes Easy, 15 Minutes at Half Marathon Pace, 3 Minutes Rest, 10 Minutes at Half Marathon-10K Pace with 3 Minutes Rest, 10 Minutes Easy | 40-45 Minutes Easy Run |
+| **11**<br>*(Main)* | Rest Day | 15 Minutes Warm Up, 8 X 3 Minutes at 10K Pace with 2 Minutes Rest, 15 Minutes Warm Down Jog | 30-40 Minutes Easy Cross Training | 30 Minutes Easy Run | Rest Day | 15 Minutes Warm Up, 2 X 12 Minutes at Half Marathon Pace with 3-5 Minutes Rest, 15 Minutes Warm Down Jog | 30 Minutes Easy Run |
+| **12**<br>*(Taper)* | Rest Day | 15 Minutes Warm Up Jog, 8 X 1 Minutes at 5K Pace with 1-Minute Recovery Jog, 10 Minutes Warm Down Jog | 25-30 Minutes Easy | Rest Day | 20-25 Minutes Easy | 15-20 Minutes Easy | RACE DAY! GOOD LUCK FROM ALL AT THE B.A.A.! |

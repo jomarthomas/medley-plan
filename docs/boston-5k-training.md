@@ -34,81 +34,13 @@
 
 ## Training Schedule
 
-### Week 1 (2-Week Prep Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 10 Minutes Easy, 10 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: 10 Minutes Easy, 10 Minutes Moderate Pace Run
-- Friday: Easy Run, Cross Training or Off Day
-- Saturday: 10 Minutes Easy, 10 Minutes Moderate Pace Run
-- Sunday: 30 Minutes Easy Long Run
-
-### Week 2 (2-Week Prep Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Friday: Easy Run, Cross Training or Off Day
-- Saturday: 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Sunday: 30-35 Minutes Easy Long Run
-
-### Week 3 (5-Week Main Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Friday: Easy Run, Cross Training or Off Day
-- Saturday: 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Sunday: 35-40 Minutes Easy Long Run
-
-### Week 4 (5-Week Main Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run
-- Friday: Easy Run, Cross Training or Off Day
-- Saturday: 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run
-- Sunday: 40 Minutes Easy Long Run
-
-### Week 5 (5-Week Main Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run
-- Friday: Easy Run, Cross Training or Off Day
-- Saturday: 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run
-- Sunday: 40 Minutes Easy Long Run
-
-### Week 6 (5-Week Main Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run
-- Friday: Easy Run, Cross Training or Off Day
-- Saturday: 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run
-- Sunday: 30-35 Minutes Easy Long Run
-
-### Week 7 (5-Week Main Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Friday: Easy Run, Cross Training or Off Day
-- Saturday: 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run
-- Sunday: Off Day
-
-### Week 8 (1-Week Taper Phase)
-
-- Monday: Easy Run, Cross Training or Off Day
-- Tuesday: 10 Minutes Easy, 10 Minutes Moderate Pace Run
-- Wednesday: Easy Run, Cross Training or Off Day
-- Thursday: Off Day
-- Friday: Off Day
-- Saturday: RACE DAY
+| Week | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **1**<br>*(Prep)* | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | 30 Minutes Easy Long Run |
+| **2**<br>*(Prep)* | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | 30-35 Minutes Easy Long Run |
+| **3**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 10-12 Minutes Moderate Pace Run | 35-40 Minutes Easy Long Run |
+| **4**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 12-15 Minutes Moderate Pace Run | 40 Minutes Easy Long Run |
+| **5**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 15-18 Minutes Moderate Pace Run | 40 Minutes Easy Long Run |
+| **6**<br>*(Main)* | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 12-15 Minutes Easy, 18-20 Minutes Moderate Pace Run | 30-35 Minutes Easy Long Run |
+| **7**<br>*(Main)* | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | 10-12 Minutes Easy, 10-12 Minutes Moderate Pace Run | Off Day |
+| **8**<br>*(Taper)* | Easy Run, Cross Training or Off Day | 10 Minutes Easy, 10 Minutes Moderate Pace Run | Easy Run, Cross Training or Off Day | Off Day | Off Day | RACE DAY | - |
