@@ -11,6 +11,7 @@ This file contains concise execution guidance for each distance: pacing principl
 - Focus: sustainable high-intensity — maintain threshold to slightly-above-threshold for middle 60–70% of race.
 - Pacing principles: conservative opening kilometer, target evenly-paced kilometers or small negative splits, avoid large surges until last 2 km.
 - Warmup checklist: 15–20 min easy, strides, 2×2 min at race pace with 2 min easy recovery, mobility.
+- See full 12-week schedule: [Boston 10K Training Plan](boston-10k-training.md)
 
 Half marathon execution plan
 - Focus: consistent tempo and fueling; plan to run controlled first half and increase effort if legs permit.
