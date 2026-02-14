@@ -3,6 +3,7 @@
 This file contains concise execution guidance for each distance: pacing principles, warmup checklist, and half-marathon fueling guidance.
 
 5K execution plan
+- Training plan: See [Boston 5K Training Plan](boston-5k-training.md) for an 8-week structured training program.
 - Focus: controlled aggression — fast from the gun, maintain tempo-like tolerance for the middle, finish maximal.
 - Pacing principles: start controlled to avoid early lactate spike; settle into planned target effort by km 1 and hold or negative-split.
 - Warmup checklist: 10–15 min easy jog, 3–4 strides, 2 short accelerations, mobility and dynamic drills.
