@@ -14,7 +14,7 @@ The goal is to build:
 
 | Day | Workout Type | Exercise / Activity | Sets | Reps / Distance | Notes |
 |-----|--------------|--------------------|------|-----------------|------|
-| Sunday | Long Run | Outdoor endurance run | — | 8–16 km (5–10 mi) | Conversational pace |
+| Sunday | Long Run | Outdoor endurance run | — | 8–21.1 km (5–13.1 mi) | Conversational pace; build to half marathon distance in peak phase |
 | Monday | Stability Strength | Bulgarian Split Squat | 3 | 6–8 each leg | Moderate weight |
 |  |  | Single-Leg Romanian Deadlift | 3 | 8 each leg | Balance and control |
 |  |  | Weighted Step-Ups | 3 | 10 each leg | Knee stability |
@@ -51,7 +51,7 @@ Use this before runs or strength sessions.
 |------|-------------------|
 | Early training | 8–10 km |
 | Mid training | 10–14 km |
-| Pre-race phase | 14–18 km |
+| Pre-race phase | 14–21.1 km |
 
 ## Speed Workout Progression
 
@@ -76,6 +76,7 @@ Use this before runs or strength sessions.
 
 - Keep easy runs easy.
 - Increase long-run volume gradually.
+- Build Sunday long runs toward the half marathon distance as race preparation progresses.
 - Focus on good form during strength sessions.
 - Use Saturday as a true recovery day when needed.
 - Adjust volume if fatigue builds too quickly.
