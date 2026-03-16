@@ -1,55 +1,73 @@
-# medley-plan
+# Training Plan for the BAA Medley Races (2026)
 
+This program combines running workouts and compound strength training to prepare for the race distances in the BAA Medley series.
 
-Concise, actionable documentation to prepare for the 2026 Distance Medley sequence: 5K → 10K → Half Marathon.
+---
 
-Purpose
-- Provide a lean weekly training template, race sequencing logic, and a lightweight tracking + review system for steady progress toward the three races.
+# Weekly Training Plan
 
-How to use this repo (weekly)
-- Follow the `docs/weekly-template.md` pattern each week and log sessions in `docs/tracking.md`.
-- Update the weekly log every Sunday evening and set the weekly fatigue flag (Green/Yellow/Red).
-- Make minor adjustments weekly (±10% volume or swap sessions). Use the monthly review for larger changes.
+| Day | Workout Type | Exercise / Activity | Sets | Reps / Distance | Notes |
+|-----|--------------|--------------------|------|-----------------|------|
+| Sunday | Long Run | Outdoor endurance run | — | 8–16 km (5–10 mi) | Conversational pace |
+| Monday | Stability Strength | Bulgarian Split Squat | 3 | 6–8 each leg | Moderate weight |
+|  |  | Single-Leg Romanian Deadlift | 3 | 8 each leg | Balance and control |
+|  |  | Weighted Step-Ups | 3 | 10 each leg | Knee stability |
+|  |  | Goblet Squat | 3 | 10 | Controlled tempo |
+| Tuesday | Speed Workout | Interval run | — | 6–8 × 400 m | Fast pace, 2 min rest between intervals |
+| Wednesday | Heavy Strength | Barbell Back Squat | 4 | 5 | 75–85% effort |
+|  |  | Romanian Deadlift | 3 | 6–8 | Posterior chain |
+|  |  | Dumbbell Walking Lunges | 3 | 10 each leg | Controlled stride |
+|  |  | Barbell Hip Thrust | 3 | 8–10 | Glute focus |
+| Thursday | Easy Run | Recovery run | — | 4–7 km (2.5–4.5 mi) | Easy pace |
+| Friday | Power Strength | Trap Bar Deadlift | 4 | 4–6 | Heavy |
+|  |  | Barbell Hip Thrust | 3 | 8 | Moderate-heavy |
+|  |  | Kettlebell Swings | 3 | 12–15 | Explosive movement |
+|  |  | Standing Calf Raises (weighted) | 3 | 12–15 | Controlled tempo |
+| Saturday | Rest | Mobility or light stretching | — | 10–15 min | Optional |
 
+---
 
-How to upload health exports
-- Place raw device exports and screenshots into the matching `/health-data/` subfolder. Use the required naming convention: `YYYY-MM-DD_device_metric.ext` (examples and accepted file types are in `/health-data/README.md`).
-- Do not transform or summarize raw exports inside the archive — keep originals for audit.
+# Warm-Up Routine (Before Runs or Strength Sessions)
 
-Device ecosystem
-- Apple Watch Ultra (resting HR, HRV, sleep)
-- Polar H10 (preferred chest strap for VO2 and tempo sessions)
-- KardiaMobile 6L (EKG strips)
-- OMRON Evolv (blood pressure)
-- Smart Fitness Scale (body composition)
+| Exercise | Duration / Reps |
+|----------|----------------|
+| Light jog or brisk walk | 5 minutes |
+| Leg swings | 10 each leg |
+| Bodyweight squats | 10 reps |
+| Walking lunges | 10 steps |
+| Hip circles | 10 each direction |
 
+Total warm-up time: 5–8 minutes
 
-Medley overview
-- Sequence: 5K (speed/VO2 focus) → 10K (threshold/sustainable speed) → Half (endurance + fueling).
+---
 
-Weekly training template (summary)
-- Mon: long run (aerobic endurance)
-- Tue: VO2 intervals (quality intensity)
-- Wed: rest or active recovery
-- Thu: tempo (threshold work)
-- Fri: easy + short strength
-- Sat: full-body strength
-- Sun: speed endurance (short reps or race-pace reps)
+# Long Run Progression
 
-Update cadence
-- Weekly: 10-minute quick review and log updates; record fatigue flag and any session notes.
-- Monthly: 30-minute structured review; save a monthly snapshot (see `PLANS.md`) and document changelog entries.
+| Phase | Long Run Distance |
+|------|-------------------|
+| Early training | 8–10 km |
+| Mid training | 10–14 km |
+| Pre-race phase | 14–18 km |
 
-Privacy reminder
-- This repository must be private. It stores sensitive, personal health exports and screenshots. Do not publish, share, or sync publicly.
-- Files here are raw data only. This repo does not provide medical advice or automated interpretation.
+---
 
-Repo contents
-- `PLANS.md` — roadmap, checkpoints, and snapshot/versioning guidance
-- `docs/` — strategy, weekly template, tracking templates, race plans, and review templates
-- `/health-data/` — raw health exports and screenshots (see README)
-- `ISSUES.md` — actionable items to track setup and reviews
+# Speed Workout Progression
 
-If you want a specific layout change or additional example workouts, tell me which day or session to expand.
-# medley-plan
-Structured performance plan for the B.A.A. Distance Medley (5K, 10K, Half Marathon). Documentation-only repository using Markdown to define strategy, periodization, weekly training framework, performance tracking, race execution, and post-race analysis. Designed for disciplined, measurable, and scalable preparation.
+| Phase | Workout |
+|------|---------|
+| Early training | 6 × 400 m |
+| Mid training | 8 × 400 m |
+| Later phase | 5 × 800 m |
+| Pre-race phase | 3 × 1 km |
+
+---
+
+# Weekly Training Summary
+
+| Category | Amount |
+|---------|--------|
+| Running sessions | 3 |
+| Strength sessions | 3 |
+| Rest days | 1 |
+| Weekly running distance | ~12–40 km |
+| Strength focus | Compound lifts + unilateral stability |
